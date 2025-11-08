@@ -1,0 +1,5 @@
+{
+  "name": "IntelliQuiz - Student Assessment Platform",
+  "description": "A comprehensive platform for students to take quizzes and schedule mock tests. Includes a full-featured admin panel for managing content, schedules, and viewing results.",
+  "requestFramePermissions": []
+}
